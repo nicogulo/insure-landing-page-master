@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* nav ul li.plan:hover {
+  color: violet-verydark;
+  text-violet-verydark border-2 hover:bg-violet-verydark hover:text-gray-light
+} */
